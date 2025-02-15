@@ -67,6 +67,6 @@ Algumas melhorias que podem ser implementadas no futuro:
 
 ## 🙏 Agradecimentos
 
-Agradeço ao Derone por ter me proposto esse desafio e a mim mesma por ter encarado este desafio e por ter aprendido muito no processo! Também agradeço à comunidade de desenvolvedores por compartilhar conhecimentos e recursos que me ajudaram a concluir este projeto.
+Agradeço ao Dércio Simione Derone por ter me proposto esse desafio e a mim mesma por ter encarado este desafio e por ter aprendido muito no processo! Também agradeço à comunidade de desenvolvedores por compartilhar conhecimentos e recursos que me ajudaram a concluir este projeto.
 
 
